@@ -17,6 +17,7 @@ public class DriverFactory {
 	OptionsManager manager;
 	Properties prop;
 	public static String isHighlight;
+        // adding comments for practice
 
 	public WebDriver getBrowser(Properties prop) {
 
