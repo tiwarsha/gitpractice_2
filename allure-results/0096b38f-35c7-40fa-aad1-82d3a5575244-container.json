@@ -1,0 +1,1 @@
+{"uuid":"0096b38f-35c7-40fa-aad1-82d3a5575244","name":"com.qa.opencart.tests.AddtocartTest","children":["b6d2a13b-cd6a-4f4c-bf0c-820082cdab1e"],"befores":[{"name":"accSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1740235153892,"stop":1740235156948}],"afters":[],"start":1740235150506,"stop":1740235164532}
